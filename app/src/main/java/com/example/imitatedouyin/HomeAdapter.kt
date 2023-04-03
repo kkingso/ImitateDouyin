@@ -42,6 +42,6 @@ class HomeAdapter : BaseQuickAdapter<VideoBean, QuickViewHolder>() {
         val mediaController = MediaController(context)
         videoView.setMediaController(mediaController)
         mediaController.setMediaPlayer(videoView)
-        videoPath.text = "path: ${item?.path}"
+        videoPath.text = "index: $position"
     }
 }

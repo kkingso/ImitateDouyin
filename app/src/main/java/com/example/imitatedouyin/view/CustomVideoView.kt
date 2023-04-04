@@ -1,4 +1,4 @@
-package com.example.imitatedouyin
+package com.example.imitatedouyin.view
 
 import android.content.Context
 import android.util.AttributeSet

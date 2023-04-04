@@ -1,4 +1,4 @@
-package com.example.imitatedouyin
+package com.example.imitatedouyin.bean
 
 /**
  * video实体类

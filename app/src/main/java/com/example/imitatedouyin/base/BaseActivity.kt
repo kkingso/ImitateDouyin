@@ -1,4 +1,4 @@
-package com.example.imitatedouyin
+package com.example.imitatedouyin.base
 
 import android.os.Bundle
 import android.view.View
